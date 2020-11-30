@@ -211,8 +211,8 @@ div#main-content {
 	margin-top:0;
 }
 div#main-content.container-fluid{
-	margin-right: 0px;
-	margin-left: -15px;
+	padding-right: 5px;
+	padding-left: 5px;
 }
 
 div.menu-details{
